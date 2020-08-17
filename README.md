@@ -71,6 +71,59 @@ I will be using the K-Nearest Neighbors in my Titanic Dataset Analysis. Feature 
 I challenged my model using the Random Forest Algorithm and scored an accuracy of 88% which also surpassed our metric of success.
 
 
+Spam Message Classification
+
+
+
+The Context
+
+Given a number of variables, as a Data Scientist am tasked to correctly classify a spam message.
+
+
+Metrics of success
+
+
+
+I am targeting to achieving an accuracy of 85% with the optimal Naive Bayes Classifier model.
+
+
+Steps taken during the study:
+
+
+The following steps will be undertaken during this study:
+
+
+
+1. Reading and exploring the dataset.
+
+
+
+
+2. Data Cleaning; Dealing with missing data to answer the given question.
+
+
+
+3. Perform univariate and multi-variate analysis and recording observations.
+
+
+
+4. Fitting my data into the Naive Bayes Classifier and obtaining the best paramters for the model.
+
+
+
+5. Providing comprehensive recommendations based on my study.
+
+
+
+6. Challenging my solution by providing insights on how to make model improvements.
+
+
+
+Project Description
+
+
+I used the Naive Bayes Classifier model to correctly a spam message. Tuned the model, tested it using different test sizes.
+
 
 
 
