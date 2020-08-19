@@ -1,9 +1,9 @@
 # Predictions
 
-Titanic Dataset Analysis
+**Titanic Dataset Analysis**
 
 
-The Context
+**The Context**
 
 The RMS Titanic was a luxury British steamship that sank in the early hours of April,15 1912 after striking an iceberg leading to the deaths of more than 1500 passengers and crew. Of the 2240 passengers and crew on board, more than 1500 lost their lives in the disaster.
 
@@ -63,7 +63,7 @@ The steps taken during this study are:
 
 
 
-Project Description
+**Project Description**
 
 I will be using the K-Nearest Neighbors in my Titanic Dataset Analysis. Feature Reduction Techniques of the Linear Discriminant Analysis using a single component to improve the model performance. I will also try out different test sizes, which I found 10% is the optimal measure of the model which I scored 87% accuracy in prediction.
 
@@ -71,16 +71,16 @@ I will be using the K-Nearest Neighbors in my Titanic Dataset Analysis. Feature 
 I challenged my model using the Random Forest Algorithm and scored an accuracy of 88% which also surpassed our metric of success.
 
 
-Spam Message Classification
+**Spam Message Classification**
 
 
 
-The Context
+**The Context**
 
 Given a number of variables, as a Data Scientist am tasked to correctly classify a spam message.
 
 
-Metrics of success
+**Metrics of success**
 
 
 
@@ -119,7 +119,7 @@ The following steps will be undertaken during this study:
 
 
 
-Project Description
+**Project Description**
 
 
 I used the Naive Bayes Classifier model to correctly a spam message. Tuned the model, tested it using different test sizes.
