@@ -1,4 +1,4 @@
-# Predictions
+# **Titanic Dataset Analysis and Spam Message Classification**
 
 **Titanic Dataset Analysis**
 
